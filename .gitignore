@@ -1,7 +1,9 @@
 # Maven target directory
-/target/
+target/
 
 # IntelliJ IDEA files
 /.idea/
 
+# OS-generated files
+.DS_Store
 
